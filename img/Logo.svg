@@ -1,0 +1,23 @@
+<svg width="580" height="250" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#f7f9f9" id="canvas_background" height="252" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_3" height="74.999997" width="576" y="8.4375" x="2.5" stroke-width="1.5" fill="#00bf00"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="103.4375" x2="396.5" y1="103.4375" x1="180.500001" stroke-width="1.5" fill="none"/>
+  <path stroke="#000" id="svg_6" d="m190.617513,110.998423l101.5,96.000013l101.5,-96.000013l-203,0z" stroke-width="1.5" fill="#005fbf"/>
+  <path stroke="#000" id="svg_10" d="m190.61751,123.99842l101.5,96.00002l101.5,-96.00002l-203,0z" stroke-width="1.5" fill="#007fff"/>
+  <path stroke="#000" id="svg_11" d="m190.61751,136.99842l101.5,96.00002l101.5,-96.00002l-203,0z" stroke-width="1.5" fill="#56aaff"/>
+  <path stroke="#000" id="svg_13" d="m190.61751,152.99842l101.5,96.00002l101.5,-96.00002l-203,0z" stroke-width="1.5" fill="#aad4ff"/>
+  <text transform="rotate(-0.15894411504268646 287.9999999999964,26.43749999999186) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_14" y="34.4375" x="189.84375" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Wilder Fredy Cortes</text>
+  <text transform="rotate(-0.15894411504268646 287.9999999999928,63.43749999999699) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_15" y="71.4375" x="162.875" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Ingenieria y Construcción</text>
+  <rect stroke="#000" id="svg_16" height="10.999999" width="576" y="86.4375" x="2.5" stroke-width="1.5" fill="#003f7f"/>
+ </g>
+</svg>
